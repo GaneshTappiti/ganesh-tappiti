@@ -1,0 +1,11 @@
+{
+  "name": "ganesh-tappiti-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Portfolio of Ganesh Tappiti — product designer and full-stack engineer.",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  }
+}

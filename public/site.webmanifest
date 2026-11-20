@@ -1,0 +1,22 @@
+{
+  "name": "Ganesh Tappiti — product designer & full-stack engineer",
+  "short_name": "Ganesh",
+  "description": "Products, brands and campus programmes designed and built by Ganesh Tappiti.",
+  "start_url": "/en",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#121414",
+  "theme_color": "#121414",
+  "icons": [
+    {
+      "src": "/assets/img/marque/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/marque/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Ganesh Tappiti — product designer & full-stack engineer"
+    },
+    {
+      "path": "/en",
+      "title": "Ganesh Tappiti — product designer & full-stack engineer"
+    },
+    {
+      "path": "/en/about",
+      "title": "About — Ganesh Tappiti"
+    },
+    {
+      "path": "/en/work",
+      "title": "Work — Ganesh Tappiti"
+    },
+    {
+      "path": "/en/services",
+      "title": "Services — Ganesh Tappiti"
+    },
+    {
+      "path": "/en/contact",
+      "title": "Contact — Ganesh Tappiti"
+    }
+  ]
+}
