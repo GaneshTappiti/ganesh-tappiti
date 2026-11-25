@@ -64,6 +64,13 @@
   - Replaced the 13 Bitwip French agency photos in About page (`#vie` section) with two animated strips showcasing Ganesh's 11 project illustrations with responsive srcsets and accessible alt texts.
   - Replaced the French Bitwip actualités cards in Home page (`#actualites` Builder's log) with Clstr, Scollab, and E-Cell REC project artwork.
   - Verified Work page grid, list, and case studies all render with proper assets.
+- [x] Motion effect for Home page images strip (`public/en/index.html`)
+  - Restored `data-vie=""` on the `.ag-vie.ag-vie--papier` container, wrapped track in `<div class="ag-vie__bande" data-bande="1" data-reveal="" role="group" tabindex="0">`, and added `data-bande-piste=""` to `<ul class="ag-vie__piste">`.
+  - Added full responsive `src` and `srcset` (320w, 800w, 1200w) for 8 project showcases so images render immediately and layout measurements calculate accurately on page load.
+  - Connected `bitwip.js` infinite marquee loop, scroll acceleration, drag-to-scroll interactivity, and entrance reveal motion.
+- [x] Footer wordmark update
+  - Replaced standalone "GANESH" in the footer across all five pages and 404 page with the full name "GANESH TAPPITI".
+  - Created `site-logo-ganesh-tappiti.svg` for `.groupe__mere` and updated the giant inline SVG in `.pied__logo` with balanced letter spacing, viewBox (`0 0 2350 281`), and the orange brand spark.
 
 ## Next
 

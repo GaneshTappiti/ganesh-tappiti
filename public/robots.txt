@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ganeshtappiti.ganeshtappitii.workers.dev/sitemap.xml
